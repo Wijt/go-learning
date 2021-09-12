@@ -5,5 +5,5 @@ import "go-learning/loops"
 
 func main() {
 	//conditionals.Workshop_one()
-	loops.Workshop_three()
+	loops.Workshop_four()
 }
