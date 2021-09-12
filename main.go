@@ -1,11 +1,7 @@
 package main
 
-import (
-	"fmt"
-	"go-learning/demos"
-)
+import "go-learning/conditionals"
 
 func main() {
-	fmt.Println("Hello!")
-	demos.Demo1()
+	conditionals.Workshop_one()
 }
